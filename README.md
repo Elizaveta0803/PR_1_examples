@@ -59,7 +59,8 @@
 4. Запись результатов в CSV-файлы.
 
 ### Верхнеуровневая архитектура:
-![360x250](https://github.com/Elizaveta0803/PR_1_examples/assets/71484926/ab1642ad-d21c-4662-90b2-0cf494226ed9)
+![360x250](https://github.com/Elizaveta0803/PR_1_examples/assets/71484926/958b0d42-d481-47bc-b211-5786e76db901)
+
 
 
 ## Возможные трудности:
