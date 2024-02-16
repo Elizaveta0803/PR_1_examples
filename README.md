@@ -30,6 +30,10 @@
 2. Полученные данные в формате JSON сохраняются в файл "Sample.json".
 3. Данные из файла загружаются обратно и выводятся на экран.
 
+#### Верхнеуровневая архитектура:
+![360x250](https://github.com/Elizaveta0803/PR_1_examples/assets/71484926/1be9e819-64cc-479b-8e9c-e239ce4ecfa1)
+
+
 ## [Вторая работа](https://colab.research.google.com/drive/1x3-u1Sj7fvyQ76FUFbX_S73ps3k2dYtB?usp=sharing):
 ### Описание
 Этот скрипт осуществляет парсинг данных о бондах с веб-страницы [Smart-lab.ru](https://smart-lab.ru/q/bonds/) с использованием `requests` и `BeautifulSoup`. Он собирает информацию о бондах и сохраняет ее в формате CSV.
